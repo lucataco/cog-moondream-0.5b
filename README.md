@@ -6,6 +6,9 @@ This is an implementation of [vikhyatk/moondream0.5b](https://huggingface.co/vik
 
 Follow the [model pushing guide](https://replicate.com/docs/guides/push-a-model) to push your own model to [Replicate](https://replicate.com).
 
+## Download weights
+
+Download [moondream-0_5b weights](https://huggingface.co/vikhyatk/moondream2/tree/onnx) and place them in a `checkpoints` folder
 
 ## How to use
 
